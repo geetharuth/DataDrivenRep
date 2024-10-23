@@ -1,0 +1,14 @@
+ 
+
+<suite name="DataDriven">
+  <test thread-count="5" name="LoginTest">
+    <classes>
+       <class name="driverFactory.Driverscript"/>
+    </classes>
+  </test> <!-- Test -->
+<test thread-count="5" name="CustomerTest">
+<classes>
+ <class name="driverFactory.TestScript"/>
+ </classes>
+ </test> <!-- Test -->
+</suite> <!-- DataDriven -->

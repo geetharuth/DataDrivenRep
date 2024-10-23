@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows are::8<br>]]>
+    </line>
+    <line>
+      <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[Incorrect user ID or password    dashboard   http://webapp.qedgetech.com/login.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[Incorrect user ID or password    dashboard   http://webapp.qedgetech.com/login.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+    </line>
+    <line>
+      <![CDATA[no of rows are::7<br>]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess::Customer-00000012009   Customer-00000012009<br>]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess::Customer-00000012010   Customer-00000012010<br>]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess::Customer-00000012011   Customer-00000012011<br>]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess::Customer-00000012012   Customer-00000012012<br>]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess::Customer-00000012013   Customer-00000012013<br>]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess::Customer-00000012014   Customer-00000012014<br>]]>
+    </line>
+    <line>
+      <![CDATA[customer add sucess::Customer-00000012015   Customer-00000012015<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-22T12:56:51Z" name="DataDriven" finished-at="2024-10-22T13:00:07Z" duration-ms="196158">
+    <groups>
+    </groups>
+    <test started-at="2024-10-22T12:56:51Z" name="LoginTest" finished-at="2024-10-22T12:58:00Z" duration-ms="68990">
+      <class name="driverFactory.Driverscript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.Driverscript@6ac13091]" started-at="2024-10-22T18:26:51Z" name="setUp" finished-at="2024-10-22T18:26:53Z" duration-ms="1573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="starttest()[pri:0, instance:driverFactory.Driverscript@6ac13091]" started-at="2024-10-22T18:26:53Z" name="starttest" finished-at="2024-10-22T18:28:00Z" duration-ms="67200" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::8<br>]]>
+            </line>
+            <line>
+              <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+            </line>
+            <line>
+              <![CDATA[Incorrect user ID or password    dashboard   http://webapp.qedgetech.com/login.php<br>]]>
+            </line>
+            <line>
+              <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+            </line>
+            <line>
+              <![CDATA[Incorrect user ID or password    dashboard   http://webapp.qedgetech.com/login.php<br>]]>
+            </line>
+            <line>
+              <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+            </line>
+            <line>
+              <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+            </line>
+            <line>
+              <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+            </line>
+            <line>
+              <![CDATA[Valid username and password::dashboard    http://webapp.qedgetech.com/dashboard.php<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- starttest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.Driverscript@6ac13091]" started-at="2024-10-22T18:28:00Z" name="tearDown" finished-at="2024-10-22T18:28:00Z" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.Driverscript -->
+    </test> <!-- LoginTest -->
+    <test started-at="2024-10-22T12:58:00Z" name="CustomerTest" finished-at="2024-10-22T13:00:07Z" duration-ms="127138">
+      <class name="driverFactory.TestScript">
+        <test-method is-config="true" signature="setup()[pri:0, instance:driverFactory.TestScript@76908cc0]" started-at="2024-10-22T18:28:00Z" name="setup" finished-at="2024-10-22T18:28:04Z" duration-ms="3247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="starttest()[pri:0, instance:driverFactory.TestScript@76908cc0]" started-at="2024-10-22T18:28:04Z" name="starttest" finished-at="2024-10-22T18:30:07Z" duration-ms="123248" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[no of rows are::7<br>]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess::Customer-00000012009   Customer-00000012009<br>]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess::Customer-00000012010   Customer-00000012010<br>]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess::Customer-00000012011   Customer-00000012011<br>]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess::Customer-00000012012   Customer-00000012012<br>]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess::Customer-00000012013   Customer-00000012013<br>]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess::Customer-00000012014   Customer-00000012014<br>]]>
+            </line>
+            <line>
+              <![CDATA[customer add sucess::Customer-00000012015   Customer-00000012015<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- starttest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:driverFactory.TestScript@76908cc0]" started-at="2024-10-22T18:30:07Z" name="teardown" finished-at="2024-10-22T18:30:07Z" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- driverFactory.TestScript -->
+    </test> <!-- CustomerTest -->
+  </suite> <!-- DataDriven -->
+</testng-results>

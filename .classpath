@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-examples-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-javadoc-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-ooxml-full-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/selenium-server-4.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/lib folder/lib/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
